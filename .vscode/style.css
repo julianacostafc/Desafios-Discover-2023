@@ -42,6 +42,8 @@ ul li a {
   border: 1px solid red;
 
   display: flex;
-  flex-direction: row;
-  gap: 8px;
+  
+ 
+ 
+  height: 52 px;
 }
